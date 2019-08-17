@@ -1,0 +1,48 @@
+[2019-08-10 18:02:32]--[src_cgi/reg_cgi.c:189]--FCGI_Accept()
+[2019-08-10 18:02:32]--[src_cgi/reg_cgi.c:220]--buf = {
+    "email": "",
+    "firstPwd": "d41d8cd98f00b204e9800998ecf8427e",
+    "nickName": "",
+    "phone": "",
+    "userName": ""
+}
+
+[2019-08-10 18:02:32]--[src_cgi/reg_cgi.c:148]--【(null)】该用户已存在
+[2019-08-10 18:16:02]--[src_cgi/reg_cgi.c:189]--FCGI_Accept()
+[2019-08-10 18:16:02]--[src_cgi/reg_cgi.c:220]--buf = {
+    "email": "yyb@qq.com",
+    "firstPwd": "d47ab2150bbd3884b5d2d16347525345",
+    "nickName": "yyb",
+    "phone": "196161",
+    "userName": "yyb"
+}
+
+[2019-08-10 21:05:05]--[src_cgi/reg_cgi.c:189]--FCGI_Accept()
+[2019-08-10 21:05:05]--[src_cgi/reg_cgi.c:220]--buf = {
+    "email": "yyb",
+    "firstPwd": "d47ab2150bbd3884b5d2d16347525345",
+    "nickName": "yyb",
+    "phone": "2327527",
+    "userName": "yyb"
+}
+
+[2019-08-10 21:05:05]--[src_cgi/reg_cgi.c:148]--【(null)】该用户已存在
+[2019-08-10 21:11:15]--[src_cgi/reg_cgi.c:189]--FCGI_Accept()
+[2019-08-10 21:11:15]--[src_cgi/reg_cgi.c:220]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin@666",
+    "phone": "11111111111",
+    "userName": "kevin_666"
+}
+
+[2019-08-10 21:14:04]--[src_cgi/reg_cgi.c:189]--FCGI_Accept()
+[2019-08-10 21:14:04]--[src_cgi/reg_cgi.c:220]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin@666",
+    "phone": "11111111111",
+    "userName": "kevin_666"
+}
+
+[2019-08-10 21:14:04]--[src_cgi/reg_cgi.c:148]--【(null)】该用户已存在
